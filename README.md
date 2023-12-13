@@ -19,6 +19,8 @@
 <div align="center">
   
   ### Languages and Tools
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToSauced&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 <div id="lanauges" align="center">
